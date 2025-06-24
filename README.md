@@ -31,7 +31,7 @@ This ROS1 package implements a coverage path planning algorithm that generates a
 Clone the package to your catkin workspace `src` folder:
 ```
 cd ~/catkin_ws/src
-git clone git clone https://github.com/TigerRUS/snake_explorer.git
+git clone https://github.com/TigerRUS/snake_explorer.git
 ```
 
 Build the package:
